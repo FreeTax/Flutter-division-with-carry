@@ -4,7 +4,7 @@ A simple Application taht make division of tow numbers with carry
 
 ## Getting Started
 
-This project is created with Flutter.
+This project was created with Flutter.
 If you dont know what is Flutter take a lock at [this](https://flutter.dev)
 
 
